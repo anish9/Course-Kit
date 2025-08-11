@@ -1,0 +1,29 @@
+# --- Python bytecode/cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# --- Logs ---
+*.log
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Build directories ---
+build/
+dist/
+*.egg-info/
+
